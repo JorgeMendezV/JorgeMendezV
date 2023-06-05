@@ -5,14 +5,15 @@
 <br>
 
 <p align="center">
-  <h3 align="left">Profile Views :-</h3>
-  <img src="https://komarev.com/ghpvc/?username=JorgeMendezV&label=Profile%20views&color=0e75b6&style=flat" alt="JorgeMendezV" />
+  <h3 align="center">Profile Views :-</h3>
+  <img align="center" src="https://komarev.com/ghpvc/?username=JorgeMendezV&label=Profile%20views&color=0e75b6&style=flat" alt="JorgeMendezV" />
 </p>
+
 
 <br>
 
 <p align="center">
-  <img src="./transistor-web-design-program.gif" alt="JorgeMendezV" />
+  <img style="max-width: 50px" src="./transistor-web-design-program.gif" alt="JorgeMendezV" />
 </p>
 
 
