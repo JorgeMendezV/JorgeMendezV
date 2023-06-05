@@ -5,14 +5,14 @@
 <br>
 
 <p align="center">
-<h3>Profile Views :-</h3> <img
+<h3 align="center">Profile Views :-</h3> <img
     src="https://komarev.com/ghpvc/?username=JorgeMendezV&label=Profile%20views&color=0e75b6&style=flat"
     alt="JorgeMendezV" />
 </p>
 
 <br>
 
-<p><img align="center" src="https://github.com/JorgeMendezV/JorgeMendezV/blob/main/animation_500_kxa883sd.gif"
+<p align="center"><img align="center" src="https://github.com/JorgeMendezV/JorgeMendezV/blob/main/animation_500_kxa883sd.gif"
         alt="JorgeMendezV" /></p>
 
 
