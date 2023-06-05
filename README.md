@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img style="max-width: 50px" src="./transistor-web-design-program.gif" alt="JorgeMendezV" />
+  <img src="./transistor-web-design-program.gif" alt="JorgeMendezV" style="width: 50px;" />
 </p>
 
 
