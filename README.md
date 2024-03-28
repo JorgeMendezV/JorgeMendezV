@@ -36,9 +36,6 @@
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-    </a>
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
@@ -46,5 +43,13 @@
 
   <h3>Statistical Data:</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeMendezV&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeMendezV&theme=dark&background=0d1117&date_format=M j[, Y]" alt="GitHub Streak" />
+  
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+  
+  <h3> Portfolio </h3>
+  
+  ![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeMendezV&show_icons=true&theme=radical)
+
 </div>
