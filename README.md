@@ -48,8 +48,4 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
   
-  <h3> Portfolio </h3>
-  
-  ![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeMendezV&show_icons=true&theme=radical)
-
 </div>
