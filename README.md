@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Albert Mendez</h1>
-  <h3>Full-stack Developer 💻🖱</h3>
+  <h3>Back-end Developer 💻🖱</h3>
   <img src="./transistor-web-design-program.gif" alt="Albert Mendez" width="400px" />
   <p>
     Passionate about crafting dynamic and responsive web applications, I am currently diving deeper into Web Development and expanding my expertise across various programming languages. With a zeal for both front-end and back-end technologies, I aspire to create seamless user experiences on the digital canvas.
